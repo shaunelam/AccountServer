@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{52CEADE6-C93F-4298-BA78-6C9424B86D80}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountOwnerServer/Controllers/OwnerController.cs">
+    <Files>
+      <File FileName="AccountOwnerServer/nlog.config" Line="6" Column="73" />
+      <File FileName="AccountOwnerServer/appsettings.json" Line="10" Column="73" />
+      <File FileName="AccountOwnerServer/Controllers/OwnerController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccountOwnerServer" expanded="True">
+            <Node name="AccountOwnerServer" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OwnerController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Contracts" expanded="True" />
+            <Node name="Entities" expanded="True" />
+            <Node name="LoggerService" expanded="True" />
+            <Node name="Repository" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AccountOwnerServer PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

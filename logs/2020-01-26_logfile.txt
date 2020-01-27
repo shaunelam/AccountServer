@@ -1,0 +1,2 @@
+2020-01-26 00:25:18.0892 INFO Returned all owners from database.
+2020-01-26 00:25:32.8138 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
